@@ -1,0 +1,5 @@
+{
+  "name": "Confined Prisoners Management System",
+  "description": "A comprehensive system to manage prisoner records, including adding, updating, and filtering prisoner information. Features an AI-powered reporting tool to generate data summaries.",
+  "requestFramePermissions": []
+}
